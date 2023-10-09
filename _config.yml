@@ -1,21 +1,17 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Shreya Sharma
+description: Graduate Student in Robotics @ Carnegie Mellon University, School of Computer Science
+site_title: 'Shreya Sharma'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+github_username: ShreyaSharma99
+blog_url: https://sites.google.com/view/shreyasharma/
+email: ssharma5@andrew.cmu.edu
+twitter_username: Shreya011199
+linkedin_username: shreya-sharma99
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
-
-# Google Analytics ID
-google_analytics: 
